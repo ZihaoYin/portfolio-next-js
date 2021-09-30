@@ -22,8 +22,8 @@ export const projects = [
     description: "A online project that used React basics.",
       image: '/images/task-tracker.png',
       tags: ['React'],
-    source: 'https://zihaoyin.com/reactTodoList/',
-    visit: 'https://zihaoyin.com/reactTodoList/',
+    source: 'https://zihaoyin.github.io/reactTodoList/',
+    visit: 'https://zihaoyin.github.io/reactTodoList/',
     id: 2,
   },
   // {
