@@ -25,7 +25,7 @@ const Hero = (props) => (
         </SectionTitle>
 
         <SectionText>
-          Building front end to provide users a good experience
+          Building software to provide users a good experience
         </SectionText>
 
       {/* </Content> */}
