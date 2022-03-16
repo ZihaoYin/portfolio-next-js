@@ -45,9 +45,9 @@ const Timeline = () => {
   return (
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>
-      I graduated from Queens college and looking for a junior dev job. I have strong logic analysis skills, a quicker learner of programming language and computer software. I’m hardworking and willing to learn.
-      </SectionText>
+//       <SectionText>
+//       I graduated from Queens college and looking for a junior dev job. I have strong logic analysis skills, a quicker learner of programming language and computer software. I’m hardworking and willing to learn.
+//       </SectionText>
     </Section>
   );
 };
